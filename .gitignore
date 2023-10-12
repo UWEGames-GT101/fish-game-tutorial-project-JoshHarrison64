@@ -90,3 +90,7 @@ modules.xml
 
 # Python virtual environment
 /venv/
+
+.idea/inspectionProfiles/
+
+.idea/vcs.xml
